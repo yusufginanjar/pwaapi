@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Paradoxure","category":"Violet"},
+{"id":2,"name":"Flamingo, greater","category":"Blue"},
+{"id":3,"name":"American Virginia opossum","category":"Teal"},
+{"id":4,"name":"Ferruginous hawk","category":"Turquoise"},
+{"id":5,"name":"African porcupine","category":"Blue"},
+{"id":6,"name":"Brocket, red","category":"Violet"},
+{"id":7,"name":"Little cormorant","category":"Yellow"},
+{"id":8,"name":"Fairy penguin","category":"Turquoise"},
+{"id":9,"name":"Rattlesnake, eastern diamondback","category":"Violet"},
+{"id":10,"name":"Gull, herring","category":"Fuscia"},
+{"id":11,"name":"Emu","category":"Indigo"},
+{"id":12,"name":"Lion, california sea","category":"Orange"},
+{"id":13,"name":"Rhinoceros, white","category":"Puce"},
+{"id":14,"name":"Spotted wood sandpiper","category":"Khaki"},
+{"id":15,"name":"Brocket, brown","category":"Orange"},
+{"id":16,"name":"Masked booby","category":"Orange"},
+{"id":17,"name":"Collared lizard","category":"Green"},
+{"id":18,"name":"Phalarope, red-necked","category":"Orange"},
+{"id":19,"name":"Snowy owl","category":"Maroon"},
+{"id":20,"name":"Heron, grey","category":"Maroon"}
+]
+}
